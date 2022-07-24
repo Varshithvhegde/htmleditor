@@ -29,6 +29,7 @@ body{
 	padding: 10px;
 	resize: vertical;
 	overflow-y: scroll;
+	color:white;
 }
 .container textarea:focus {
 	outline: none;
