@@ -10,7 +10,11 @@
 	
 	
  	<div class="container split">
-		
+		<div>
+			<button id="h" onclick="BuiltInElements(this.id)">Heading h1</button>
+			<button id="image" onclick="BuiltInElements(this.id)">Image</button>
+			<button id="form" onclick="hBuiltInElements(this.id)">Form</button>
+		</div>
  		<textarea id="htmlCode"  placeholder="Type HTML code here" oninput="update()" onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}"></textarea>
  		<textarea id="cssCode"  placeholder="Type CSS code here" oninput="update()" onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}"></textarea>
  		<textarea id="javascriptCode"  placeholder="Type JavaScript code here" oninput="update()" onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}"></textarea>
