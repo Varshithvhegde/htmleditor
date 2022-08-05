@@ -1,5 +1,6 @@
+
+
 function update() {
-	
 	let htmlCode=document.getElementById("htmlCode").value;
 	let cssCode=document.getElementById("cssCode").value;
 	let javascriptCode=document.getElementById("javascriptCode").value;
@@ -10,6 +11,5 @@ function update() {
 	iframe.close();
 	
 }
-
 Split([".container", ".iframe-container"]);
 //Split(["#htmlCode", "#cssCode", "#javascriptCode"]);
