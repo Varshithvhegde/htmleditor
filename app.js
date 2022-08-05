@@ -93,12 +93,12 @@ function BuiltInElements(id){
 	}
 	if(id=='form'){
 
-	if(htmlCode.length==0){
-		htmlCode+="<img src='' alt='add image'>";
-	}
-	else{
-		htmlCode+="\n"+"<form>"+"\n"+"<input type='text'>"+"\n"+"<input type='submit'>"+"\n"+"</form>";
-	}
+		if(htmlCode.length==0){
+			htmlCode+="<form>"+"\n"+"<input type='text'>"+"\n"+"<input type='submit'>"+"\n"+"</form>";
+		}
+		else{
+			htmlCode+="\n"+"<form>"+"\n"+"<input type='text'>"+"\n"+"<input type='submit'>"+"\n"+"</form>";
+		}
 	}
 	document.getElementById("htmlCode").value=htmlCode;
 	update();
