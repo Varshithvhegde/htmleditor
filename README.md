@@ -3,8 +3,13 @@
 HTML Editor is a simple HTML editor.
 ## Features
 * Live preview
-*  Syntax highlighting
-  
+* Syntax highlighting
+* Auto Tag Closing
+* Auto Syntax Completion
+
+## Demo
+- [HTML Editor](https://varshithvhegde.me/htmleditor/)
+
 ## Installation
 * Clone Project on Github
 ```
