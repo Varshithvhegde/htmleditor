@@ -3,11 +3,11 @@
 ## HTML Editor
 This is a simple HTML editor. You can edit your HTML code and save it to a file. You can also load a file and edit it
 ## Features
-* Live preview
-* Syntax highlighting
-* Auto Tag Closing
-* Auto Syntax Completion
-* User Friendly
+* [x] Live preview
+* [ ] ~~Syntax highlighting~~
+* [x] Auto Tag Closing
+* [x] Auto Syntax Completion
+* [x] User Friendly
 ## Screenshot 
 ![frame_generic_light (1)](https://user-images.githubusercontent.com/80502833/184666385-bc7c860d-5875-4510-abd5-3438d469be95.png)
 
