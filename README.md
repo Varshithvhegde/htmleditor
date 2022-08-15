@@ -1,11 +1,13 @@
-# HTML Editor
+<h1 align="center">Welcome to HTML EDITOR 👋</h1>  
+
 ## HTML Editor
-HTML Editor is a simple HTML editor.
+This is a simple HTML editor. You can edit your HTML code and save it to a file. You can also load a file and edit it
 ## Features
 * Live preview
 * Syntax highlighting
 * Auto Tag Closing
 * Auto Syntax Completion
+* User Friendly
 ## Screenshot 
 ![frame_generic_light (1)](https://user-images.githubusercontent.com/80502833/184666385-bc7c860d-5875-4510-abd5-3438d469be95.png)
 
