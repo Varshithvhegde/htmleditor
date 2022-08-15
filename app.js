@@ -11,6 +11,7 @@ function update(i) {
 	iframe.write(text);
 	iframe.close();
 	}
+	
 	else if(i==1){
 		
 		let htmlCode=document.getElementById("htmlCode").value;
