@@ -29,6 +29,13 @@ editor.render();
 
 ## Contributing
 Feel free to contribute!
+- Fork the [repository](https://github.com/Varshithvhegde/htmleditor) on GitHub
+- Clone the repository in your local machine and run it using live server
+- Make your changes and commit them
+- Push your changes to the repository
+- Open a pull request
+- Wait for the pull request to be merged
+- **Thank you!** 
 ## Contributors
 * [Varshith V Hegde](https://github.com/Varshithvhegde)
 
