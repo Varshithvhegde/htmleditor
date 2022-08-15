@@ -2,11 +2,13 @@
 ## HTML Editor
 HTML Editor is a simple HTML editor.
 ## Features
-* [HTML Editor](
+* Live preview
+*  Syntax highlighting
   
 ## Installation
+* Clone Project on Github
 ```
-git clone 
+git clone https://github.com/Varshithvhegde/htmleditor.git
 ```
 ## Usage
 ```javascript
