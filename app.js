@@ -54,7 +54,7 @@ const closeChars = new Map([
   cssCode=document.getElementById('cssCode');
   
   cssCode.addEventListener('input', function (e) {
-  
+	if(j!=1){
 	  const pos = e.target.selectionStart;
 	  const val = [...e.target.value];
 	  
@@ -66,12 +66,14 @@ const closeChars = new Map([
 		e.target.value = val.join('');
 		e.target.selectionEnd = pos;
 	  }
+	}
+	j=0;
   });
 
   javascriptCode=document.getElementById('javascriptCode');
   
   javascriptCode.addEventListener('input', function (e) {
-  
+	if(j!=1){
 	  const pos = e.target.selectionStart;
 	  const val = [...e.target.value];
 	  
@@ -83,6 +85,8 @@ const closeChars = new Map([
 		e.target.value = val.join('');
 		e.target.selectionEnd = pos;
 	  }
+	}
+	j=0;
 	  
   });
 
