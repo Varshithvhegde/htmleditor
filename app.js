@@ -1,5 +1,6 @@
 
 var j=0;
+//Function for live Rendering
 function update(i) {
 	if(i==0){
 	let htmlCode=document.getElementById("htmlCode").value;
@@ -22,6 +23,7 @@ function update(i) {
 	}
 	
 }
+//Auto Tag Closing functionality
 const closeChars = new Map([
 	['{', '}'],
 	['[', ']'],
