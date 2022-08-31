@@ -25,7 +25,7 @@ var editor = new HTMLEditor();
 editor.render();
 ```
 ## License
-<img alt="License: MIT" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+<a href=""><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
 
 ## Contributing
 Feel free to contribute!
