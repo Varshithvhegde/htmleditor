@@ -57,3 +57,16 @@ body{
 .gutter.gutter-horizontal {
     cursor: ew-resize;
 }
+
+#btn{
+	background: #0df073;
+	color: white;
+	font-size: 1.4rem;
+	width: 100px;
+	height: 50px;
+	/* make button center  */
+	margin: 0 auto;	
+	/* padding: 10px; */
+	border: none;
+
+}
