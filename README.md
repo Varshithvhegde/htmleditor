@@ -7,6 +7,7 @@ This is a simple HTML editor. You can edit your HTML code and save it to a file.
 * [ ] ~~Syntax highlighting~~
 * [x] Auto Tag Closing
 * [x] Auto Syntax Completion
+* [x] File Saving and Loading 
 * [x] User Friendly
 ## Screenshot 
 ![frame_generic_light (1)](https://user-images.githubusercontent.com/80502833/184666385-bc7c860d-5875-4510-abd5-3438d469be95.png)
